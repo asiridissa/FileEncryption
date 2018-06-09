@@ -5,8 +5,9 @@ use "src\FileHandler.dll" in your project.
 
 Call following methods to encrypt and decrypt.
 
-  FileHandler.Action.Encript("inputFile","outputFile");
-  FileHandler.Action.Decript("inputFile","outputFile");
+#FileHandler.Action.Encript("inputFile","outputFile");
+
+#FileHandler.Action.Decript("inputFile","outputFile");
 
 Aware of the file permission for file creation.
 
