@@ -10,6 +10,7 @@ namespace FileEncryption
     {
         static void Main(string[] args)
         {
+            //use your root path here
             string rootPath = @"D:\GitHub\FileEncryption.git\trunk\FileEncryption\FileEncryption\TestFiles\";
 
             Console.WriteLine("Encryption Starts");
